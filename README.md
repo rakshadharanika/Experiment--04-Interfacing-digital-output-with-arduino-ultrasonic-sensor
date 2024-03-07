@@ -110,12 +110,20 @@ void loop()
 ### Distance vs measurement table 
 
 			
- 
+ S.NO	ACTUAL VALUE	MEASURED VALUE	ERROR
+1	12.8	12.9	-0.1
+2	29.9	29.73	0.17
+3	43.9	43.52	0.38
+4	54.8	54.35	0.45
+5	60.9	60.3	0.6
+			0.3
+![image](https://github.com/rakshadharanika/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/149348380/0562d9e3-05aa-4d29-8f88-3d77d64f6992)
+
 			
 			
 			
 
-![image](https://user-images.githubusercontent.com/36288975/190135379-52ebacd5-ccd5-460f-a4cd-4d0ad1d9b179.png)
+
 
 			
 			
