@@ -1,7 +1,7 @@
 # EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
-## NAME: V RAKSHA DHARANIKA
-## REF NO:212223230167
-## DEPARTMANT: AIDS
+## NAME : V RAKSHA DHARANIKA
+## REF. NO : 212223230167
+## DEPARTMANT : AIDS
 
 
 ## AIM: 
@@ -106,7 +106,6 @@ void loop()
 
 ```
 
-
 ### Distance vs measurement table 
 
 			
@@ -117,20 +116,33 @@ void loop()
 4	54.8	54.35	0.45
 5	60.9	60.3	0.6
 			0.3
-![image](https://github.com/rakshadharanika/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/149348380/0562d9e3-05aa-4d29-8f88-3d77d64f6992)
+
+
+
+
+
+### GRAPH
+
+![image](https://github.com/rakshadharanika/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/149348380/f1aae988-4b8f-49fd-bbd9-2b8538a39b4b)
+
+### Schematic Representation:
+
+
+![Screenshot (79)](https://github.com/rakshadharanika/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/149348380/14cb8641-b9f3-41e2-a315-55f53b30b69b)
+
+
+
+
+
+
+
 
 			
 			
 			
-
-
-
 			
 			
 			
-			
-			
-			Average error = sum/ number of readings 
  
 
 
@@ -140,8 +152,14 @@ void loop()
 
 
 
-### RESULTS
 
+## OUTPUT OF SIMULATION:
+![Screenshot (78)](https://github.com/rakshadharanika/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/149348380/90a3b363-2fa4-496f-b380-cd86021bc842)
+
+
+## RESULT:
+
+Thus,the distance value is measured in 'CM' using ultrasonic sensor.
 
 
 
